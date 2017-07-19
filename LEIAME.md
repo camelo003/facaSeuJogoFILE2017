@@ -7,3 +7,10 @@ Repositório feito para compartilhar material do workshop 'Faça seu jogo' do FI
 
 ["Game Start" por Thais Weiller](https://medium.com/game-start)
 
+[p5js.org](https://p5js.org/)
+
+[P5 Editor](http://staging.p5js.org/download/)
+
+[Graphics Gale](https://graphicsgale.com/us/)
+
+[Tiled](www.mapeditor.org)
