@@ -21,4 +21,16 @@ Repositório feito para compartilhar material do workshop 'Faça seu jogo' do FI
 
 [Aseprite](https://www.aseprite.org/)
 
-[Kit pixel art do Danilo](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.dropbox.com%2Fs%2F78bkrpxvxc3cc6v%2Fapresentacao.zip%3Fdl%3D0&h=ATNfpwgFeg68O0SHBTWkSGKuxCjsj8YP5p0TiQcgSFVCd_AsHeF0i1dPyNjiVwTLKDIelxF61GnV5-FhYgqwdjOSXP1kiffLmYeA8MAcgalxYWpK7P5VGaKhQGU5uut_xQVZW6293HkU_OOqYQ)
+[Kit pixel art do Danilo](https://www.dropbox.com/s/78bkrpxvxc3cc6v/apresentacao.zip?dl=0)
+
+[Projeto Aseprite do Danilo](https://www.dropbox.com/s/32r5dlmf2pj17io/stage1pisos.paredesgal.ase?dl=0)
+
+["Pixel.Tools" Editor de pixelart on-line e free](https://prominentdetail.github.io/Pixel.Tools/)
+
+["Krita", software de edição de imagens (tipo Photoshop, mas open source)](https://krita.org/en/)
+
+[Tutorial de configurar o Krita para pixelart](https://www.youtube.com/watch?v=OmnpKQITm3I)
+
+
+
+
