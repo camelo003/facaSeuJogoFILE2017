@@ -31,6 +31,10 @@ Repositório feito para compartilhar material do workshop 'Faça seu jogo' do FI
 
 [Tutorial de configurar o Krita para pixelart](https://www.youtube.com/watch?v=OmnpKQITm3I)
 
+["PyxleOS", editor open source de pixelart](https://sourceforge.net/projects/pyxleos/)
+
+["GrafX2", editor open source de pixelart](http://pulkomandy.tk/projects/GrafX2)
+
 
 
 
