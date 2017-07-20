@@ -14,3 +14,9 @@ Repositório feito para compartilhar material do workshop 'Faça seu jogo' do FI
 [Graphics Gale](https://graphicsgale.com/us/)
 
 [Tiled](www.mapeditor.org)
+
+##20/07
+
+[Aseprite](https://www.aseprite.org/)
+
+[Kit pixel art do Danilo](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.dropbox.com%2Fs%2F78bkrpxvxc3cc6v%2Fapresentacao.zip%3Fdl%3D0&h=ATNfpwgFeg68O0SHBTWkSGKuxCjsj8YP5p0TiQcgSFVCd_AsHeF0i1dPyNjiVwTLKDIelxF61GnV5-FhYgqwdjOSXP1kiffLmYeA8MAcgalxYWpK7P5VGaKhQGU5uut_xQVZW6293HkU_OOqYQ)
