@@ -1,6 +1,8 @@
 # facaSeuJogoFILE2017
 Repositório feito para compartilhar material do workshop 'Faça seu jogo' do FILE2017.
 
+**19/07**
+
 [“Faça seu jogo!” 01 (intro)](https://docs.google.com/presentation/d/1ngV9uzew4OD0gxDNj5QTO2A-27xBin9pGnEqbqOb2gY/edit?usp=sharing)
 
 ["Faça se jogo" 02 (game design)](https://drive.google.com/open?id=0Bz0SomqvD9Z0SnhGOVlFVERzRFU)
@@ -15,7 +17,7 @@ Repositório feito para compartilhar material do workshop 'Faça seu jogo' do FI
 
 [Tiled](www.mapeditor.org)
 
-##20/07
+**20/07**
 
 [Aseprite](https://www.aseprite.org/)
 
