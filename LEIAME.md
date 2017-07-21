@@ -22,6 +22,10 @@ Repositório feito para compartilhar material do workshop 'Faça seu jogo' do FI
 - [**Kit pixel art do Danilo**](https://drive.google.com/open?id=0B67II_mNvOAgeENJamY3RV9pamM)
 - [**Projeto Aseprite do Danilo**](https://drive.google.com/open?id=0B67II_mNvOAgNzYxLXkyemttT1E)
 - [**Animações Danilo (GraphicGale e Aseprite)**](https://drive.google.com/open?id=0B67II_mNvOAgUmdjbUE5Skl6bG8)
+- [Editor p5js on-line (verso alpha)](https://alpha.editor.p5js.org/)
 - [**Exemplo "Smile", feito em conjunto e com código comentado (arquivos no próprio repositório)**](https://camelo003.github.io/facaSeuJogoFILE2017/exemploPaiolito/)
 - [**Exemplo "Smile segue mouse" (arquivos no próprio repositório)**](https://camelo003.github.io/facaSeuJogoFILE2017/smileSegueMouse/)
 
+**21/07**
+
+- [ReferênciA P5 (todas as funções)](https://p5js.org/reference/)
