@@ -28,4 +28,7 @@ Repositório feito para compartilhar material do workshop 'Faça seu jogo' do FI
 
 **21/07**
 
-- [ReferênciA P5 (todas as funções)](https://p5js.org/reference/)
+- [Referência P5 (todas as funções)](https://p5js.org/reference/)
+- [Usando p5 em outro editor](https://www.youtube.com/watch?v=UCHzlUiDD10)
+- [Tutorial P5JS e Atom](https://www.youtube.com/watch?v=GlmmXrCKd8M)
+- [Tutorial servidor local no Atom](https://www.youtube.com/watch?v=xg-W86U6_Ng)
